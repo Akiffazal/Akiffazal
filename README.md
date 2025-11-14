@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm Akif Fazal</h1>
-<h3 align="center">Machine Learning & Data Science Enthusiast</h3>
+<h3 align="center">Electrical Engineer | Embedded Systems | AI (ML, DL)</h3>
 
 ---
 
