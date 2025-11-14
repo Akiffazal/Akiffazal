@@ -1,20 +1,23 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm Akif Fazal</h1>
-<h3 align="center">Electrical Engineer | Embedded Systems | AI (ML, DL)</h3>
+<h3 align="center">Machine Learning & Data Science Enthusiast</h3>
 
 ---
 
 ### 🚀 About Me
 - 🔍 Passionate about **Machine Learning, Deep Learning & Data-Driven Solutions**  
 - 🧠 Love exploring **model optimization, computer vision, and end-to-end ML pipelines**  
-- 🛠️ Actively building **real-world ML projects** and improving problem-solving skills  
+- 🛠️ Actively building **real-world ML projects**  
 - 📫 Reach me at **akiffazal007@gmail.com**
 
 ---
 
 ### 🌐 Connect With Me
 <p align="left">
+<a href="https://akiffazal.github.io/my-portfolio-website/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=wordpress" width="45" title="Portfolio"/>
+</a>
 <a href="https://www.linkedin.com/in/akif-fazal/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
